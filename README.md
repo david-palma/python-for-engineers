@@ -23,6 +23,11 @@ Each exercise includes a Jupyter Notebook that demonstrates the entire problem-s
 
 ## Exercises
 
+The repository currently includes the following exercises:
+
+1. [**Advanced modelling of projectile motion**](exercises/projectile_motion_simulation)\
+   This exercise models projectile motion under ideal and realistic conditions, considering air resistance and variable gravity. It aims to compare trajectories, range, and maximum height using numerical solutions, highlighting the effects of environmental factors on motion.
+
 ---
 
 ### How to Run the Exercises
