@@ -25,8 +25,11 @@ Each exercise includes a Jupyter Notebook that demonstrates the entire problem-s
 
 The repository currently includes the following exercises:
 
-1. [**Advanced modelling of projectile motion**](exercises/projectile_motion_simulation)\
+1. [**Advanced modelling of projectile motion**](exercises/projectile_motion_simulation/)\
    This exercise models projectile motion under ideal and realistic conditions, considering air resistance and variable gravity. It aims to compare trajectories, range, and maximum height using numerical solutions, highlighting the effects of environmental factors on motion.
+
+2. [**Simulation and optimisation of pressure distribution in a combustion chamber**](exercises/pressure_distribution_optimisation/)\
+   This exercise focuses on simulating and optimising the pressure distribution within a combustion chamber to ensure efficient fuel combustion and enhance engine performance. The study involves analysing various burner configurations, visualising pressure distribution, and optimising burner positions and intensities using numerical methods.
 
 ---
 
