@@ -31,6 +31,9 @@ The repository currently includes the following exercises:
 2. [**Simulation and optimisation of pressure distribution in a combustion chamber**](exercises/pressure_distribution_optimisation/)\
    This exercise focuses on simulating and optimising the pressure distribution within a combustion chamber to ensure efficient fuel combustion and enhance engine performance. The study involves analysing various burner configurations, visualising pressure distribution, and optimising burner positions and intensities using numerical methods.
 
+3. [**Analysis of the thermal effects of a lightning strike on a structural element**](exercises/thermal_analysis/)\
+   This exercise analyses the thermal effects of a lightning strike on a structural element, focusing on heat distribution, temperature gradients, and fire/structural damage risks. It uses numerical modelling to simulate heat propagation and assess material failure under extreme thermal conditions.
+
 ---
 
 ### How to Run the Exercises
