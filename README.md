@@ -34,6 +34,9 @@ The repository currently includes the following exercises:
 3. [**Analysis of the thermal effects of a lightning strike on a structural element**](exercises/thermal_analysis/)\
    This exercise analyses the thermal effects of a lightning strike on a structural element, focusing on heat distribution, temperature gradients, and fire/structural damage risks. It uses numerical modelling to simulate heat propagation and assess material failure under extreme thermal conditions.
 
+4. [**SIR model for the diffusion of an infectious disease with vaccination and quarantine**](exercises/infectious_disease_spread/)\
+   This exercise models the spread of an infectious disease within a population, incorporating vaccination and quarantine as intervention measures. It explores how varying vaccination and quarantine rates affect the dynamics of infection, recovery, and mortality, providing insights into optimal strategies for controlling disease outbreaks through numerical simulations of the SIR model.
+
 ---
 
 ### How to Run the Exercises
