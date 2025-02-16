@@ -43,6 +43,9 @@ The repository currently includes the following exercises:
 6. [**Simulation and optimisation of pressure distribution in a combustion chamber**](exercises/pressure_distribution_optimisation/)\
    This exercise focuses on simulating and optimising the pressure distribution within a combustion chamber to ensure efficient fuel combustion and enhance engine performance. The study involves analysing various burner configurations, visualising pressure distribution, and optimising burner positions and intensities using numerical methods.
 
+7. [**Unmanned Aerial Vehicle (UAV) swarm dynamic coordination and control**](exercises/drone_swarm_coordination/)\
+   This exercise examines the dynamic coordination and control of UAV swarms to form various geometric formations, ensuring collision avoidance and minimised energy consumption. It involves system modelling, linearisation, and state-space representation. A comparative analysis of LQR and PID control strategies is conducted, evaluating performance based on stability, accuracy, and efficiency to determine the most effective approach for UAV swarm coordination.
+
 ---
 
 ### How to Run the Exercises
