@@ -22,7 +22,7 @@ The methodology follows these structured steps:
 
 3. **Numerical simulation**: Implement a numerical method, such as finite difference or finite element analysis, to compute the temperature distribution across the structure over time.
 
-4. **Visualisation and Analysis**: Generate temperature distribution plots over time to visualise the spread of heat from the impact point. Assess temperature gradients to identify regions prone to structural weakening or ignition.
+4. **Visualisation and analysis**: Generate temperature distribution plots over time to visualise the spread of heat from the impact point. Assess temperature gradients to identify regions prone to structural weakening or ignition.
 
 ## Testing the system
 
