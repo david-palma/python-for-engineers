@@ -26,25 +26,28 @@ Each exercise includes a Jupyter Notebook that demonstrates the entire problem-s
 The repository currently includes the following exercises:
 
 1. [**Advanced modelling of projectile motion**](exercises/projectile_motion_simulation/)\
-   This exercise models projectile motion under ideal and realistic conditions, considering air resistance and variable gravity. It aims to compare trajectories, range, and maximum height using numerical solutions, highlighting the effects of environmental factors on motion.
+    This exercise models projectile motion under ideal and realistic conditions, considering air resistance and variable gravity. It aims to compare trajectories, range, and maximum height using numerical solutions, highlighting the effects of environmental factors on motion.
 
 2. [**Automated wear analysis of a gear**](exercises/gear_wear_analysis/)\
-   This exercise explores the automated analysis of a gear's wear by examining its teeth. The focus is on detecting wear patterns that can impact the gear's performance and longevity, using computational methods to identify and quantify damage based on geometric features.
+    This exercise explores the automated analysis of a gear's wear by examining its teeth. The focus is on detecting wear patterns that can impact the gear's performance and longevity, using computational methods to identify and quantify damage based on geometric features.
 
 3. [**Analysis of the stability of an LTI dynamic system**](exercises/lti_system_stability_analysis/)\
-   This exercise analyses a mechanical system’s stability and dynamic response by varying mass, damping, and stiffness. It explores underdamped, critically damped, overdamped, and stable systems, calculating eigenvalues and simulating displacement and velocity over time.
+    This exercise analyses a mechanical system’s stability and dynamic response by varying mass, damping, and stiffness. It explores underdamped, critically damped, overdamped, and stable systems, calculating eigenvalues and simulating displacement and velocity over time.
 
 4. [**Analysis of the thermal effects of a lightning strike on a structural element**](exercises/thermal_analysis/)\
-   This exercise analyses the thermal effects of a lightning strike on a structural element, focusing on heat distribution, temperature gradients, and fire/structural damage risks. It uses numerical modelling to simulate heat propagation and assess material failure under extreme thermal conditions.
+    This exercise analyses the thermal effects of a lightning strike on a structural element, focusing on heat distribution, temperature gradients, and fire/structural damage risks. It uses numerical modelling to simulate heat propagation and assess material failure under extreme thermal conditions.
 
 5. [**SIR model for the diffusion of an infectious disease with vaccination and quarantine**](exercises/infectious_disease_spread/)\
-   This exercise models the spread of an infectious disease within a population, incorporating vaccination and quarantine as intervention measures. It explores how varying vaccination and quarantine rates affect the dynamics of infection, recovery, and mortality, providing insights into optimal strategies for controlling disease outbreaks through numerical simulations of the SIR model.
+    This exercise models the spread of an infectious disease within a population, incorporating vaccination and quarantine as intervention measures. It explores how varying vaccination and quarantine rates affect the dynamics of infection, recovery, and mortality, providing insights into optimal strategies for controlling disease outbreaks through numerical simulations of the SIR model.
 
 6. [**Simulation and optimisation of pressure distribution in a combustion chamber**](exercises/pressure_distribution_optimisation/)\
-   This exercise focuses on simulating and optimising the pressure distribution within a combustion chamber to ensure efficient fuel combustion and enhance engine performance. The study involves analysing various burner configurations, visualising pressure distribution, and optimising burner positions and intensities using numerical methods.
+    This exercise focuses on simulating and optimising the pressure distribution within a combustion chamber to ensure efficient fuel combustion and enhance engine performance. The study involves analysing various burner configurations, visualising pressure distribution, and optimising burner positions and intensities using numerical methods.
 
 7. [**Unmanned Aerial Vehicle (UAV) swarm dynamic coordination and control**](exercises/drone_swarm_coordination/)\
-   This exercise examines the dynamic coordination and control of UAV swarms to form various geometric formations, ensuring collision avoidance and minimised energy consumption. It involves system modelling, linearisation, and state-space representation. A comparative analysis of LQR and PID control strategies is conducted, evaluating performance based on stability, accuracy, and efficiency to determine the most effective approach for UAV swarm coordination.
+    This exercise examines the dynamic coordination and control of UAV swarms to form various geometric formations, ensuring collision avoidance and minimised energy consumption. It involves system modelling, linearisation, and state-space representation. A comparative analysis of LQR and PID control strategies is conducted, evaluating performance based on stability, accuracy, and efficiency to determine the most effective approach for UAV swarm coordination.
+
+8. [**Simulation of tornado dynamics and their impact on building structures using Navier-Stokes equations**](exercises/tornado_dynamics_simulation/)\
+    This exercise explores the dynamic behaviour of tornadoes and their impact on building structures, focusing on fluid flow patterns and the resulting structural stress and damage. It involves simulating the wind field generated by a tornado using the two-dimensional incompressible Navier-Stokes equations, identifying regions of high velocity and pressure, and assessing the structural response to these forces.
 
 ---
 
