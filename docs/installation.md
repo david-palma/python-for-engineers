@@ -7,7 +7,6 @@ This document provides a comprehensive guide to setting up the required environm
 Before proceeding with the installation, ensure that your system meets the following prerequisites:
 
 1. **Python Installation**
-
    - Python version 3.8 or higher is required.
    - To verify if Python is installed, open a terminal or command prompt and execute:
 
@@ -25,7 +24,6 @@ Before proceeding with the installation, ensure that your system meets the follo
      [https://www.python.org/downloads/](https://www.python.org/downloads/).
 
 2. **Jupyter Notebook**
-
    - Jupyter Notebook is the platform used to run and interact with the exercises.
    - It is recommended to install Jupyter via a Python package manager such as `pip` or within a virtual environment.
 
@@ -115,7 +113,6 @@ The repository includes a `requirements.txt` file that specifies all the Python 
    ```
 
    This command will install libraries such as:
-
    - numpy (for numerical computations),
    - matplotlib (for visualisations),
    - pandas (for data manipulation),
@@ -155,12 +152,12 @@ Once the notebook opens:
 
 If you prefer using **Visual Studio Code (VS Code)** to explore and run the exercises, follow the steps below to set up and run the notebooks effectively.
 
-#### 1. Install Visual Studio Code
+### 1. Install Visual Studio Code
 
 - Download and install VS Code from the official website:
   [https://code.visualstudio.com/](https://code.visualstudio.com/).
 
-#### 2. Install Required Extensions
+### 2. Install Required Extensions
 
 To enable support for Python and Jupyter Notebooks, install the following extensions:
 
@@ -175,7 +172,7 @@ To install these extensions:
    - _Python_
    - _Jupyter_
 
-#### 3. Open the Repository in VS Code
+### 3. Open the Repository in VS Code
 
 1. Open VS Code and select **File > Open Folder...** to open the `python-for-engineers` repository directory.
 2. Alternatively, you can open the terminal in the repository directory and execute:
@@ -184,7 +181,7 @@ To install these extensions:
    code .
    ```
 
-#### 4. Open and Run a Exercise
+### 4. Open and Run a Exercise
 
 1. In the VS Code Explorer (left-hand side), navigate to the `case-studies/` folder.
 2. Open the desired Jupyter Notebook file (e.g., `01-gear-wear-analysis.ipynb`).
@@ -192,7 +189,7 @@ To install these extensions:
    - You will see a notification at the top-right of the VS Code interface to select the interpreter.
 4. Run the cells sequentially by clicking the Run button (►) at the top of each cell or using the toolbar controls provided for notebooks.
 
-#### 5. Debugging and Troubleshooting
+### 5. Debugging and Troubleshooting
 
 To debug Python scripts or cells in a Jupyter Notebook:
 
@@ -248,8 +245,7 @@ While setting up and running the exercises, you may encounter some issues. Below
 **Solution**:
 
 - Ensure that both the **Python** and **Jupyter** extensions are installed in VS Code, as described in the instructions provided in section [Running Exercises in Visual Studio Code](#running-case-studies-in-visual-studio-code-alternative).
-- If notebooks do not open correctly, try reloading the window:
-    - Click on **View > Command Palette**, then type and select **Reload Window**.
+- If notebooks do not open correctly, try reloading the window: - Click on **View > Command Palette**, then type and select **Reload Window**.
 - Ensure that the correct Python interpreter is selected. You should see a notification at the top-right of the VS Code interface to choose the interpreter. Select the one associated with your virtual environment (if using one).
 
 ### 4. Kernel or Runtime Errors in Jupyter Notebooks
@@ -287,6 +283,7 @@ While setting up and running the exercises, you may encounter some issues. Below
   ```
 
   If the environment still fails to activate, recreate it by deleting the `venv/` folder and running:
+
 - On **Windows**
 
   ```bash
